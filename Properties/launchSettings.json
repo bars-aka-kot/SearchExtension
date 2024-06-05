@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SearchExtension": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\GeekBrains\\NewHome\\HomeWork\r\ntxt\r\nmoney"
+    }
+  }
+}
